@@ -1,0 +1,6 @@
+fsrs
+uvicorn
+fastapi
+pydantic
+requests
+pyyaml
